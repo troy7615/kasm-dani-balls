@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Balls',
+    description: 'A 2d game made by missing youtuber Dani.',
+    icon: 'https://imgbb.com/"><img src="https://i.ibb.co/VvjKZ61/unnamed.png',
+    listUrl: 'https://troy7615.github.io/kasm-dani-balls',
+    contactUrl: 'https://github.com/troy7615/kasm-dani-balls/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
